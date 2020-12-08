@@ -1,0 +1,35 @@
+nav h1 {
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+header {
+margin-top: 2rem;
+margin-bottom: 0.5rem;
+font-size: larger;
+}
+
+input {
+  padding: 1rem;
+  font-size: large;
+  border: 2px solid black;
+}
+
+div {
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: larger;
+  color: #131212;
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem;
+  font-size: large;
+  margin: 1rem;
+}
